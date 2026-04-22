@@ -32,7 +32,7 @@ const FAQSection = () => {
   ];
 
   return (
-    <div className="bg-slate-50 py-12 sm:py-16" id="resources">
+    <div className="bg-slate-50 py-12 sm:py-16" id="faqs">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-7xl">
           
