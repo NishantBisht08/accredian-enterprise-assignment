@@ -90,7 +90,7 @@ const HeroSection = () => {
               </div>
 
               {/* Floating stat card */}
-              <div className="absolute -bottom-6 -left-6 bg-white p-4 rounded-xl shadow-xl border border-slate-100 hidden md:block animate-bounce" style={{ animationDuration: '3s' }}>
+              <div className="absolute -top-6 -right-6 bg-white p-4 rounded-xl shadow-xl border border-slate-100 hidden md:block animate-bounce" style={{ animationDuration: '3s' }}>
                 <div className="flex items-center gap-4">
                   <div className="bg-green-100 p-2 rounded-lg">
                     <svg className="w-6 h-6 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
